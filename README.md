@@ -7,17 +7,17 @@
 
 Synced automatically by SolveBase.
 
-**Total solved: 0**
+**Total solved: 1**
 
 ## Codeforces
 
 Solutions by [theshield_cf](https://codeforces.com/profile/theshield_cf), organized by difficulty rating.
 
-**Solved: 0**
+**Solved: 1**
 
 | Difficulty | Solved |
 | --- | --- |
-| — | 0 |
+| [800](./codeforces/800) | 1 |
 
 
 ## LeetCode

@@ -7,7 +7,7 @@
 
 Synced automatically by SolveBase.
 
-**Total solved: 6**
+**Total solved: 7**
 
 ## Codeforces
 
@@ -24,11 +24,11 @@ Solutions by [theshield_cf](https://codeforces.com/profile/theshield_cf), organi
 
 Solutions organized by primary topic folder.
 
-**Solved: 4**
+**Solved: 5**
 
 | Topic | Solved |
 | --- | --- |
-| [array](./leetcode/array) | 2 |
+| [array](./leetcode/array) | 3 |
 | [tree](./leetcode/tree) | 2 |
 
 
